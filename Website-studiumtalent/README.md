@@ -15,10 +15,10 @@ A simple website created to provide **easy access to notes** from Studium Talent
 ## 🎨 Appearance
 
 ### Desktop View
-![Desktop View](https://github.com/Electro5218/other-projects/Website-studiumtalent/blob/main/notatki.jpg)
+![Desktop View](https://github.com/Electro5218/other-projects/blob/main/Website-studiumtalent/notatki.jpg)
 
 ### Mobile View
-![Mobile View](https://github.com/Electro5218/other-projects/Website-studiumtalent/blob/main/notatkimobile.jpg)
+![Mobile View](https://github.com/Electro5218/other-projects/blob/main/Website-studiumtalent/notatkimobile.jpg)
 
 ---
 
