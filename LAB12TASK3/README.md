@@ -1,0 +1,7 @@
+# 🔏 RSA Digital Signature
+
+This Python project demonstrates how to generate RSA key pairs, sign a file digitally using a private key, and verify the signature with the corresponding public key. The script uses Python's `cryptography` library to perform asymmetric encryption and digital signing. It first generates a 2048-bit RSA key pair, saves the private and public keys to `.pem` files, and then signs a target file using the private key with PSS padding and SHA-256 hashing. The signature is saved to a `.sig` file and can be verified using the public key to ensure that the file has not been tampered with.
+
+To use the script, specify the path of the file you want to sign in the `file_path` variable, run the script, and it will generate the digital signature and save it. The program also automatically verifies the signature using the public key and prints whether the signature is valid or if the file has been altered. This project demonstrates practical skills in asymmetric cryptography, digital signatures, key generation, file handling, and secure hashing.
+
+✅ This project is designed for educational purposes and is part of a security-focused portfolio, showcasing competencies relevant for roles such as SOC Analyst, Security Engineer, Pentester, and Security Analyst.
